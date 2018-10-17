@@ -1,0 +1,19 @@
+{
+    "name": "kolli01",
+    "version": "0.0.1",
+    "description": "resume app",
+    "main": "app.js",
+    "dependencies": {
+        "express": "latest",
+        "morgan": "latest",
+        "body-parser": "latest",
+        "ejs": "latest"
+    },
+    "author": "Pradeep Kolli",
+    "homepage": "https://bitbucket.org/PradyKolli/Kolli_Portfolio",
+    "repository": {
+        "type": "git",
+        "url": "https://bitbucket.org/PradyKolli/Kolli_Portfolio"
+    },
+    "license": "Apache-2.0"
+}
