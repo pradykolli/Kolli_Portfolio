@@ -65,15 +65,15 @@
 }
 @font-face {
     font-family: 'Mafakanav';
-    src: url('/Fonts/Mafakanev.otf')  format('truetype')
+    src: url('/fonts/Mafakanev.otf')  format('truetype')
   }
 @font-face {
 	font-family: 'BeforeRain';
-	src: url('/Fonts/beforeRain/BeforeTheRainText.ttf')  format('truetype')
+	src: url('/fonts/beforeRain/BeforeTheRainText.ttf')  format('truetype')
 }
 @font-face {
 	font-family: 'GoodTimes';
-	src: url('/Fonts/goodTimes.ttf')  format('truetype')
+	src: url('/fonts/goodTimes.ttf')  format('truetype')
 }
 .navbar{    
 	position: sticky;
