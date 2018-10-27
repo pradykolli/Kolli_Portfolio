@@ -197,3 +197,4 @@
 ::ffff:127.0.0.1 - - [27/Oct/2018:21:24:51 +0000] "GET /game HTTP/1.1" 304 - "http://127.0.0.1:8081/contactUs" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 ::ffff:127.0.0.1 - - [27/Oct/2018:21:24:53 +0000] "GET /index HTTP/1.1" 304 - "http://127.0.0.1:8081/game" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 ::ffff:127.0.0.1 - - [27/Oct/2018:21:48:48 +0000] "GET /game HTTP/1.1" 304 - "http://127.0.0.1:8081/index" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+::ffff:127.0.0.1 - - [27/Oct/2018:22:03:26 +0000] "GET / HTTP/1.1" 200 6174 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
