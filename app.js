@@ -39,19 +39,27 @@ app.use(logger('combined', { stream: accessLogStream }));
 // 4 http GET default page at /
 app.get("/", function (req, res) {
     //res.sendFile(path.join(__dirname + '/assets/index.html'))
-    res.render("index.ejs")
+    res.render("index.ejs", {
+      page: "index"
+    })
    })
    app.get("/index", function (req, res) {
-    res.render("index.ejs")
+    res.render("index.ejs", {
+      page: "index"
+    })
    })
    // 4 http GET /game
    app.get("/game", function (req, res) {
-    res.render("game.ejs")
+    res.render("game.ejs", {
+      page: "game"
+    })
    })
     
    // 4 http GET /contact
    app.get("/contactUs", function (req, res) {
-    res.render("contactUs.ejs")
+    res.render("contactUs.ejs", {
+      page: "contact"
+    })
    })
    // 5 http POST /contact
     app.post("/contactUs", function (req, res) {

@@ -83,3 +83,11 @@ function css(element){
     element.css("background","#cccccc")
     return Promise.resolve(1);
 }
+// $("a.nav-link").click(function(){
+//     $(".nav-item").removeClass("active");
+//     $(this).parent().addClass("active");
+// })
+// function changeActiveTab(){
+//     $(".nav-item").removeClass("active");
+//     $(this).parent().addClass("active");
+// }
