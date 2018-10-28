@@ -1,32 +1,37 @@
-# Kolli_Portfolio
-This is a portfolio site by Pradeep Kolli to test the skills in HTML, CSS, Express js and jQuery 
+## Welcome to GitHub Pages
 
-##Development Tools
-Visual Studio Code
+You can use the [editor on GitHub](https://github.com/pradykolli/Kolli_Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-##Get Started
-You can navigate through three pages.
-1)Home page - A little about my self. 
-2)Bingo Game- A small application built on Responsive Web Design (used Bootstrap Framework) and jQuery v3.3.1.
-3)Contact us page- A page which has a little info to contact me for any queries and a simple electronic mail form.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-##How to play BINGO
-This is an indian version of Bingo which has a touch of "Housie" styled ticket grid.
+### Markdown
 
-1)Navigate to Game page.
-2)Click on Generate Number button.
-3)If the generated number matches with the number in your grid then click on the number cell.
-4)Repeat steps 2 and 3 untill 5 numbers matches within 15 chances.
-5)Once you are done with 5 matched numbers you win.
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-##Link to the demo
+```markdown
+Syntax highlighted code block
 
-https://kolli-portfolio.herokuapp.com/
+# Header 1
+## Header 2
+### Header 3
 
-##How to use it on your local machine
-1)Make sure you have the latest stable Node and NPM installed on your PC.
-2)Fork it to your Repo and clone it to your local machine.
-3)Go to the folder and Open a command window here.
-4)Type npm install.
-5)Once the install is successful, type node app.js and this should be running on your local machine at port 8081.
-6)If that port is not free try changing the PORT in app.js. 
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pradykolli/Kolli_Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
