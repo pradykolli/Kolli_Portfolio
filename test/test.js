@@ -29,7 +29,7 @@
 
 
 //PRADEEP KOLLI ADDED UNIT TEST CASES FOR FUNCTION CALCULATESEATS 
-QUnit.test('Testing the new calculateSeats function with five sets of inputs', function (assert) {
+QUnit.test('Testing whether the randomly generated number is within the range of 1-25 or not with four random generations', function (assert) {
   assert.equal(App.withinRange(), true, "This generates a random number within range 1-25");
   assert.equal(App.withinRange(), true, "This generates a random number within range 1-25");
   assert.equal(App.withinRange(), true, "This generates a random number within range 1-25");
