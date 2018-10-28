@@ -204,3 +204,8 @@
 ::ffff:127.0.0.1 - - [27/Oct/2018:22:05:53 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "http://127.0.0.1:8081/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 ::1 - - [28/Oct/2018:07:36:35 +0000] "GET / HTTP/1.1" 200 6555 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 ::1 - - [28/Oct/2018:07:36:38 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "http://localhost:8081/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+::ffff:127.0.0.1 - - [28/Oct/2018:20:33:35 +0000] "GET / HTTP/1.1" 200 6555 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+::ffff:127.0.0.1 - - [28/Oct/2018:20:33:38 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "http://127.0.0.1:8081/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+::ffff:127.0.0.1 - - [28/Oct/2018:20:33:39 +0000] "GET /game HTTP/1.1" 200 6095 "http://127.0.0.1:8081/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+::ffff:127.0.0.1 - - [28/Oct/2018:20:33:49 +0000] "GET /game HTTP/1.1" 304 - "http://127.0.0.1:8081/game" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+::ffff:127.0.0.1 - - [28/Oct/2018:20:33:57 +0000] "GET /game HTTP/1.1" 304 - "http://127.0.0.1:8081/game" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"

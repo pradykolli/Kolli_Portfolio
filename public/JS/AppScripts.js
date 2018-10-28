@@ -2,7 +2,9 @@
 let icount = 0;
 let a = new Array();
 let ticket = new Array();
-
+var App = {
+    withinRange :withinRange
+  }
 /**
  * BetterLuckNextTime function 
  * throws an alert that you have lost the game 
@@ -18,8 +20,20 @@ function betterLuckNextTime(){
  * Generates a random number within the range of 1 to 25
  * and some game logic included
  */
+function randomNumberGenerator(){
+    return Math.floor((Math.random() * 25) + 1);
+}
+function withinRange(){
+    let x = randomNumberGenerator();
+    if(x<=25 && x>=1){
+        return true;
+    }
+    else 
+        return false;
+}
 function addNumber() {
-    let x = Math.floor((Math.random() * 25) + 1);
+    //let x = Math.floor((Math.random() * 25) + 1);
+    let x = randomNumberGenerator();
     for(let i=0; i<a.length; i++){
         if(a.includes(x)){
             x = Math.floor((Math.random() * 25) + 1)
