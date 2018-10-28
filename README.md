@@ -1,18 +1,18 @@
 # Kolli Portfolio
 This is a server-side portfolio web application to test my skills in HTML, CSS ,Express JS and jQuery
 
-##Development Tools
+## Development Tools
 
 Visual Studio Code
 
-##Get Started
+## Get Started
 
 You can navigate through three pages.
 1)Home page - A little about my self. 
 2)Bingo Game- A small application built on Responsive Web Design (used Bootstrap Framework) and jQuery v3.3.1.
 3)Contact us page- A page which has a little info to contact me for any queries and a simple electronic mail form.
 
-##How to play BINGO
+## How to play BINGO
 
 1)Navigate to Game page.
 2)Click on Generate Number button.
@@ -20,11 +20,11 @@ You can navigate through three pages.
 4)Repeat steps 2 and 3 untill 5 numbers matches within 15 chances.
 5)Once you are done with 5 matched numbers you win.
 
-##LINK to the demo
+## LINK to the demo
 
 https://kolli-portfolio.herokuapp.com/
 
-##How to use this on your local machine
+## How to use this on your local machine
 
 1)Fork it to your repo and Clone it to your local machine.
 2)Once this is done make sure you download the latest version of node and npm.
