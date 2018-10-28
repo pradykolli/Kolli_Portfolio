@@ -7,7 +7,8 @@
         "express": "latest",
         "morgan": "latest",
         "body-parser": "latest",
-        "ejs": "latest"
+        "ejs": "latest",
+        "nodemailer": "~4.6.8"
     },
     "author": "Pradeep Kolli",
     "homepage": "https://bitbucket.org/PradyKolli/Kolli_Portfolio",
